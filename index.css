@@ -353,6 +353,10 @@ a, a::after, a::before, li, ul, a::after:hover, li:hover, ul:hover {
   background-color: var(--text-color-light);
 }
 
+.fa {
+  color: white;
+}
+
 .social-icons {
   display: flex;
   justify-content: space-between;
